@@ -1,4 +1,4 @@
-# DUDE PERFERCT
+# DUDE PERFECT
 This is a fan page of dude perfect
 This was a college project done by me during the first year.
 The tags that I used in this project are given below
